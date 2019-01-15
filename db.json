@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 10
     },
     {
       "id": 3,
@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/7/7a/Jessie.png/revision/latest?cb=20131106225109",
+      "likes": 5,
+      "id": 9
+    },
+    {
+      "name": "Lots-O-Huggin'",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/3/38/Toy-story-3-definitive-collection-lotso-512x600.jpg/revision/latest?cb=20100910222854",
+      "likes": 9,
+      "id": 10
+    },
+    {
+      "name": "Villains",
+      "image": "https://vignette.wikia.nocookie.net/villains/images/e/ef/Empreror_Zurg.png/revision/latest?cb=20180928220305",
+      "likes": 10,
+      "id": 11
+    },
+    {
+      "name": "Stinky Pete",
+      "image": "https://vignette.wikia.nocookie.net/villains/images/9/91/Stinky_Pete.png/revision/latest?cb=20170813231735",
+      "likes": 13,
+      "id": 12
+    },
+    {
+      "name": "charlie",
+      "image": "https://vignette.wikia.nocookie.net/villains/images/9/91/Stinky_Pete.png/revision/latest?cb=20170813231735",
+      "likes": 0,
+      "id": 14
     }
   ]
 }
