@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 21
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 5
     },
     {
       "id": 7,
@@ -47,6 +47,78 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Wheezy",
+      "image": "https://static.giantbomb.com/uploads/scale_small/10/103881/2842746-wheezy.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Wheezy",
+      "image": "https://static.giantbomb.com/uploads/scale_small/10/103881/2842746-wheezy.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Mr Mike",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4a/Aav6p.jpg/revision/latest?cb=20111206023909",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Mr Mike",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4a/Aav6p.jpg/revision/latest?cb=20111206023909",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Mr Mike 3",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4a/Aav6p.jpg/revision/latest?cb=20111206023909",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Mr Mike 3",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4a/Aav6p.jpg/revision/latest?cb=20111206023909",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "MR MIKE 5",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4a/Aav6p.jpg/revision/latest?cb=20111206023909",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "jessie",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-y1ys73_7dd5c0b7.jpeg",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Slinky the dog",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-y1ys73_7dd5c0b7.jpeg",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Killer toy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515Hv4-U-gL._SX425_.jpg",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "whaoo",
+      "image": "omg",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "I am a toy",
+      "image": "omg",
+      "likes": 0,
+      "id": 20
     }
   ]
 }
